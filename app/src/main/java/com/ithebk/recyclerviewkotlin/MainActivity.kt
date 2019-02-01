@@ -6,7 +6,6 @@ import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
-import javax.security.auth.callback.Callback
 
 class MainActivity : AppCompatActivity() {
 
